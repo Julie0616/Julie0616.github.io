@@ -1,21 +1,25 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Industrial Analysis Intern**  
+**July 2025 - September 2025 | Economic Development Office, Huangqiao Sub-district Office, Xiangcheng District People's Government of Suzhou City**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### Main Responsibilities​:
+- Participated in the "Industrial Chain and Competitive Advantage of Key Enterprises" research project, analyzed enterprise growth paths​
+- Visited and investigated 5 key enterprises in intelligent manufacturing and digital economy fields, sorted out industrial chain strategies, barriers and wrote reports​
+- Designed competitive position analysis framework for leading industries using relevant theories and models
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Proposed 4 optimization suggestions including technology collaboration and carrier expansion​
+- Some suggestions were incorporated into the street's industrial development plan  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **产业分析实习生**  
+**2025年7月 – 2025年9月 | 苏州市相城区人民政府黄桥街道办事处经济发展办公室**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+#### 主要职责​:
+- 参与 “重点企业产业链与竞争优势” 研究项目，分析企业成长路径​
+= 走访调研 5 家智能制造与数字经济领域重点企业，梳理产业链策略及壁垒并撰写报告​
+- 运用相关理论与模型，设计主导产业竞争地位分析框架
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 提出技术协同、载体扩容等 4 项优化建议​
+- 部分建议被纳入街道产业发展规划
